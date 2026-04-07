@@ -2,7 +2,7 @@
 
 ## 🎥 Demonstração
 
-![Demonstração do site](imagens/Animação.gif)
+![Demonstração do site](imagens/apresentacao.gif)
 
 Página de apresentação do projeto
 
