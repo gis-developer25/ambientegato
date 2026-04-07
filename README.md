@@ -1,8 +1,8 @@
 # 🐱 Projeto Gatos
 
-## 📸 Preview do site
+## 🎥 Demonstração
 
-![Preview do site](imagens/screenshot.png)
+![Demonstração do site](imagens/Animação.gif)
 
 Página de apresentação do projeto
 
