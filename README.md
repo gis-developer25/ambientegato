@@ -1,5 +1,9 @@
 # 🐱 Projeto Gatos
 
+## 📸 Preview do site
+
+![Preview do site](imagens/screenshot.png)
+
 Página de apresentação do projeto
 
 Repositório criado para fazer a apresentação visual de um projeto sobre a divulgação de informações de utilidade pública para responsáveis por gatos.
